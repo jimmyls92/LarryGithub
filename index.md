@@ -7,3 +7,4 @@
 * Larry Plotter y El Malware de Fuego
 * Larry Plotter y la Orden del feniz
 * Larry plotter y eso
+* Larry Plotter y los commits de la muerte
